@@ -1,10 +1,10 @@
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,350,700|Poppins:300,400,500,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 @import "ball.css";
 
 body {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 350;
+  font-weight: 300;
   background-image: linear-gradient(#95B9AF, #E1B07E);
   height: 100vh;
 }
