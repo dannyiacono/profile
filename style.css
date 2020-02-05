@@ -4,7 +4,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  background-color: #F8F9FC;
+  background-image: linear-gradient(#95B9AF, #E1B07E);
+  height: 100vh;
 }
 
 .remove_decoration {
@@ -111,3 +112,4 @@ h3 {
     width: 300px;
   }
 }
+
