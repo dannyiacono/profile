@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
+  font-weight: 350;
   background-image: linear-gradient(#95B9AF, #E1B07E);
   height: 100vh;
 }
@@ -34,8 +34,8 @@ h3 {
 }
 
 .image-cropper {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
@@ -45,6 +45,7 @@ h3 {
   background-color: white;
   padding: 10px 20px;
   margin: 20px;
+  opacity: 0.95;
 }
 
 .container {
@@ -88,10 +89,6 @@ h3 {
   display: inline-block;
   padding: 0px 10px;
   font-size: 40px;
-}
-
-.fontweight-light {
-  font-weight: 200;
 }
 
 @media (max-width: 960px) {
@@ -150,3 +147,5 @@ h3 {
   overflow: hidden;
   margin: 90px 90px;
 }
+
+
