@@ -48,7 +48,7 @@ h3 {
 }
 
 .container {
-  width: 700px;
+  width: 600px;
   margin: 50px auto;
 }
 
@@ -97,7 +97,7 @@ h3 {
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 700px;
+    width: 600px;
   }
 }
 @media (max-width: 720px) {
