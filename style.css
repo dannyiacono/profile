@@ -5,7 +5,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   background-image: linear-gradient(#95B9AF, #E1B07E);
-  height: 100vh;
+  height: 110vh;
 }
 
 .remove_decoration {
@@ -148,6 +148,6 @@ h3 {
   width: 1em;
   height: 1em;
   overflow: hidden;
-  margin: 90px;
+  margin: 90px 90px;
 }
 
